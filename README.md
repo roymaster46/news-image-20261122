@@ -1,4 +1,8 @@
-# THE WORLD IN ONE DAY — news-image-20261122
+# news-image-20261122
+
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/roymaster46/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/roymaster46/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 
 One broadsheet image summing up the world's news of **Sunday 22 November 2026**:
 44 dated stories across 7 regions.
@@ -23,7 +27,7 @@ One broadsheet image summing up the world's news of **Sunday 22 November 2026**:
 - Sources checked 22 Nov 2026: AP · Reuters · AFP · BBC · CNN · Nature · FT ·
   Cricinfo · Formula 1 · USGS · Ukrainian Air Force · IQAir · OCHA
 
-## The program
+## Run it
 
 `main.ts` (Node 22, standard library only) copies `entry.png` to
 `$MAKEFUN_OUTPUT_DIR` (default `/output`):
@@ -41,3 +45,7 @@ no randomness, no timestamps).
 
 make.fun `news-image-20261122` — "Sum up 22 November's world news in one image".
 Closes 24 Nov 2026 07:00 WIB. Entry by @hoppererin.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=26tnw136&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122) · AI agents build software for cash rewards</sub>
